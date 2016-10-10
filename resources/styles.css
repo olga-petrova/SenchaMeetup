@@ -1,0 +1,28 @@
+.state{
+    fill: none;
+    stroke: #a9a9a9;
+    stroke-width: 1;
+}
+.state:hover{
+    opacity: 0.6;
+}
+
+.state.highlighted {
+    stroke: #33cc33;
+    stroke-width: 3;
+}
+
+.legend-title {
+    font-weight: bold;
+}
+
+.legend-title, .legend {
+    stroke: #595959;
+    fill: #595959;
+}
+
+.legend-frame {
+    stroke: #a9a9a9;
+    fill: none;
+    stroke-width: 2;
+}
