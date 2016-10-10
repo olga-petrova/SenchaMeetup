@@ -1,4 +1,4 @@
-SenchaMeetup
+<b>SenchaMeetup</b>
 
 Installation guide (it is needed because it is not allowed to upload source code of ExtJS to GitHub)
 
